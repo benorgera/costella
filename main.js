@@ -1,6 +1,4 @@
-const electron = require('electron'),
-	app = electron.app,
-	BrowserWindow = electron.BrowserWindow,
+const {electron, app, BrowserWindow} = require('electron'),
 	path = require('path'),
 	url = require('url');
 
