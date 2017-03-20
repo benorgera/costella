@@ -1,0 +1,19 @@
+{
+  "name": "node-bot",
+  "version": "0.0.1",
+  "description": "Long live the supreme shark #slaypreme",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/benorgera/costella",
+  "keywords": [
+    "Supreme",
+    "NYC"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
